@@ -298,6 +298,27 @@ macOS AI 使用统计工具
 
 ---
 
+<!-- Blog Section -->
+## Latest Blog | 最新博文
+
+<div align="center">
+
+[![Blog](https://img.shields.io/badge/Tech_Blog-leolin990405.github.io/blog-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://leolin990405.github.io/blog/)
+
+</div>
+
+### [历史学在 AI 时代的新角色：从治国智慧到 Agent 编排](https://leolin990405.github.io/blog/2026/03/11/civagent-57-civilizations-ai-orchestration/)
+
+> 人类 5000 年的政治制度史是一部**组织架构设计模式库**——57 种政体，6 种 AI 编排模式。从秦始皇的中央集权到雅典的直接民主，从唐代三省六部的质量门控到波斯帝国的最终一致性，每种制度都是一次经过数百年压力测试的架构实验。
+>
+> *「历史不只是过去的事，它是组织智慧的活化石。」*
+
+**Keywords**: Multi-Agent Systems, Political Science, Institutional Design, LLM Orchestration
+
+**References**: 47 academic citations — Qian Mu, Fukuyama, Huntington, Mintzberg, Simon, North, Hayek, Arrow
+
+---
+
 <!-- Quote & Footer -->
 <div align="center">
 
