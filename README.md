@@ -307,15 +307,20 @@ macOS AI 使用统计工具
 
 </div>
 
-### [历史学在 AI 时代的新角色：从治国智慧到 Agent 编排](https://leolin990405.github.io/blog/2026/03/11/civagent-57-civilizations-ai-orchestration/)
+### CivAgent 系列：从治国智慧到 Agent 编排（7 篇）
 
-> 人类 5000 年的政治制度史是一部**组织架构设计模式库**——57 种政体，6 种 AI 编排模式。从秦始皇的中央集权到雅典的直接民主，从唐代三省六部的质量门控到波斯帝国的最终一致性，每种制度都是一次经过数百年压力测试的架构实验。
->
+> 人类 5000 年的政治制度史是一部**组织架构设计模式库**——57 种政体，6 种 AI 编排模式。
 > *「历史不只是过去的事，它是组织智慧的活化石。」*
 
-**Keywords**: Multi-Agent Systems, Political Science, Institutional Design, LLM Orchestration
+1. [问题的提出：为什么 AI 编排需要历史学？](https://leolin990405.github.io/blog/2026/03/11/civagent-1-history-as-design-patterns/)
+2. [六种编排模式的类型学](https://leolin990405.github.io/blog/2026/03/11/civagent-2-six-orchestration-modes/)
+3. [唐代三省六部——质量门控的经典实现](https://leolin990405.github.io/blog/2026/03/11/civagent-3-tang-dynasty-quality-gates/)
+4. [明代双轨制——N-Version Programming](https://leolin990405.github.io/blog/2026/03/11/civagent-4-ming-dynasty-dual-power/)
+5. [雅典民主——分布式知识管理系统](https://leolin990405.github.io/blog/2026/03/11/civagent-5-athens-distributed-knowledge/)
+6. [波斯总督制——最终一致性](https://leolin990405.github.io/blog/2026/03/11/civagent-6-persia-eventual-consistency/)
+7. [跨学科桥梁、技术实现与反思](https://leolin990405.github.io/blog/2026/03/11/civagent-7-theory-and-implementation/)
 
-**References**: 47 academic citations — Qian Mu, Fukuyama, Huntington, Mintzberg, Simon, North, Hayek, Arrow
+**Keywords**: Multi-Agent Systems, Political Science, Institutional Design, LLM Orchestration
 
 ---
 
