@@ -1,19 +1,19 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=230&section=header&text=Leo%20Lin%20%7C%20林中岳&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Multi-AI%20Systems%20Architect%20%E2%80%A2%20Open%20Source%20Creator%20%E2%80%A2%20Data%20Analyst&descSize=18&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=230&section=header&text=Leo%20Lin%20%7C%20林中岳&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Interdisciplinary%20AI%20Researcher%20%E2%80%A2%20History%20%C3%97%20Economics%20%C3%97%20Political%20Science%20%C3%97%20Agent%20Design&descSize=18&descAlignY=55" width="100%" />
 
 <div align="center">
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Orchestrating+9+AI+Providers+into+Unified+Workflows+%F0%9F%A4%96;Building+the+Largest+Claude+Code+Skills+Ecosystem+%F0%9F%A7%A9;From+Data+to+Decisions+with+Python+%2F+R+%2F+SQL+%F0%9F%93%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=History+%C3%97+Economics+%C3%97+Political+Science+%C3%97+AI+Agent+Design+%F0%9F%8C%8D;From+5000+Years+of+Institutions+to+Multi-Agent+Orchestration+%F0%9F%8F%9B%EF%B8%8F;Building+the+Largest+Claude+Code+Skills+Ecosystem+%F0%9F%A7%A9" alt="Typing SVG" />
 
 <br/>
 
 <!-- Social Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-LeoLin990405-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeoLin990405)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zhongyue_Lin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhongyue-lin-327143207/)
+[![Blog](https://img.shields.io/badge/Blog-leolin990405.github.io-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://leolin990405.github.io/blog/)
 [![Profile Views](https://komarev.com/ghpvc/?username=LeoLin990405&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/LeoLin990405)
 [![GitHub Followers](https://img.shields.io/github/followers/LeoLin990405?style=for-the-badge&logo=github&color=236ad3&labelColor=1155ba)](https://github.com/LeoLin990405?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/LeoLin990405?style=for-the-badge&logo=github&color=e3b341&labelColor=c9922f&affiliations=OWNER)](https://github.com/LeoLin990405)
 
 </div>
 
@@ -29,24 +29,25 @@
 ```yaml
 name: "Zhongyue Lin (Leo) | 林中岳"
 location: "China"
-role: "Multi-AI Systems Architect & Data Analyst"
+role: "Interdisciplinary AI Researcher & Agent Architect"
 
 education:
   degree: "Data Science & Analytics"
-  interests:
-    - "Multi-AI Orchestration & Agent Teams"
-    - "LLM Agent Frameworks"
-    - "Data-Driven Decision Making"
+  research_interests:
+    - "Institutional Design → AI Orchestration"
+    - "Behavioral Economics → Agent Decision-Making"
+    - "Political Science → Multi-Agent Governance"
+    - "Organization Theory → Agent Team Patterns"
 
 current_focus:
-  building: "Agent Teams for Claude Code Bridge"
+  writing: "Interdisciplinary AI Blog (CivAgent Series)"
+  building: "Multi-AI Collaboration Infrastructure"
   creating: "xiaotie - Lightweight AI Agent Framework"
   maintaining: "10+ Claude Code Open Source Skills"
-  researching: "Multi-Agent Simulation (CivAgent)"
-  analyzing: "Data Pipelines with Python / R / SQL"
+  researching: "Historical Polities as Agent Design Patterns"
 
 languages: ["中文 (Native)", "English (Fluent)"]
-fun_fact: "I route 9 AI providers through a single Gateway"
+philosophy: "5000 years of institutional wisdom → AI architecture"
 ```
 
 </td>
@@ -60,11 +61,152 @@ fun_fact: "I route 9 AI providers through a single Gateway"
 
 ### What I Do | 我做什么
 
-> **Multi-AI Architect** — I build systems that make 9+ AI providers (Claude, GPT, Gemini, DeepSeek, Kimi, Qwen...) collaborate as unified agent teams. From smart task routing to inter-agent communication pipelines, I design the infrastructure for AI-to-AI collaboration.
+> **Interdisciplinary AI Researcher** — I map patterns from political science, behavioral economics, and organizational theory onto AI multi-agent architectures. My CivAgent series demonstrates how 5,000 years of institutional design — from Tang Dynasty quality gates to Athenian distributed consensus — directly inform modern agent orchestration patterns.
 >
-> **Data Analyst** — I transform raw data into actionable insights using Python, R, and SQL. Building end-to-end data pipelines from collection to visualization.
+> **Multi-AI Architect** — I build systems that make 9+ AI providers (Claude, GPT, Gemini, DeepSeek, Kimi, Qwen...) collaborate as unified agent teams. From smart task routing to inter-agent communication pipelines.
 >
 > **Open Source Creator** — I build and maintain the largest Claude Code Skills ecosystem with 10+ packages, and contribute to multi-AI collaboration infrastructure used by developers worldwide.
+
+---
+
+<!-- Interdisciplinary Research Section -->
+## Interdisciplinary Research | 跨学科研究
+
+<div align="center">
+
+> *"History is not just the past — it is a living fossil of organizational wisdom."*
+> *历史不只是过去的事，它是组织智慧的活化石。*
+
+</div>
+
+My research bridges **humanities and social sciences** with **AI systems engineering**:
+
+| Discipline | Theory Source | AI Application | Blog Series |
+|:---:|:---|:---|:---:|
+| **History** | Tang 3-Department System, Persian Satrapies | Quality gates, eventual consistency | CivAgent |
+| **Political Science** | 57 polities, 6 governance modes | Multi-agent orchestration patterns | CivAgent |
+| **Behavioral Economics** | Kahneman's Dual-System Theory | Fast/slow agent routing, bias mitigation | Standalone |
+| **Organization Theory** | Simon's Bounded Rationality | Satisficing strategies, near-decomposability | Standalone |
+
+---
+
+<!-- Featured Projects Section -->
+## Featured Projects | 重点项目
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### [CivAgent Series](https://leolin990405.github.io/blog/)
+**57-Civilization → 6 AI Orchestration Modes**
+57 种政体 → 6 种 AI 编排模式
+
+![Research](https://img.shields.io/badge/-Research-E91E63?style=flat-square&logoColor=white)
+![History](https://img.shields.io/badge/-History-d29922?style=flat-square&logoColor=white)
+![AI](https://img.shields.io/badge/-Multi--Agent-6C63FF?style=flat-square&logoColor=white)
+
+> 7-part bilingual essay series mapping 5,000 years of political institutions to AI multi-agent architecture patterns. From Tang Dynasty quality gates to Athenian distributed knowledge aggregation.
+
+**Key Mappings:**
+- Tang 3-Dept → Pipeline quality gates
+- Ming Dual-Track → N-version programming
+- Athens Democracy → Distributed consensus
+- Persian Satrapies → Eventual consistency
+
+</td>
+<td width="50%">
+
+### [Claude Code Bridge](https://github.com/bfly123/claude_code_bridge)
+**Multi-AI Collaboration Infrastructure**
+多 AI 协作基础设施
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gateway](https://img.shields.io/badge/-Gateway_API-FF9800?style=flat-square&logoColor=white)
+![Agent Teams](https://img.shields.io/badge/-Agent_Teams-6C63FF?style=flat-square&logoColor=white)
+
+> Core contributor to CCB — a bridge between Claude Code and 9+ AI providers. I implemented the **Agent Teams** system (4 phases): agent aliases, team config, smart task routing, and inter-agent communication.
+
+**My Contributions:**
+- Agent name alias system (a/b/c/d mapping)
+- Team config with role/skill definitions
+- Smart routing (keyword + skill matching, CN/EN)
+- Inter-agent messaging (--to, --broadcast, --chain)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [xiaotie](https://github.com/LeoLin990405/xiaotie)
+**Lightweight AI Agent Framework**
+轻量级 AI Agent 框架
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM-FF6B6B?style=flat-square&logoColor=white)
+![Agent](https://img.shields.io/badge/-Agent-00C853?style=flat-square&logoColor=white)
+
+> A minimal yet powerful agent framework. Build autonomous AI agents that can reason, plan, use tools, and execute multi-step tasks — all with clean, readable code.
+
+**Key Features:**
+- Minimal footprint, maximum capability
+- ReAct loop (Reason -> Act -> Observe)
+- Extensible tool system
+- Built-in memory & context management
+- Multi-LLM backend support
+
+</td>
+<td width="50%">
+
+### [Claude Code Skills](https://github.com/LeoLin990405?tab=repositories&q=claude-&type=source)
+**The Largest Claude Skills Ecosystem**
+最大的 Claude Code 技能生态
+
+![Skills](https://img.shields.io/badge/-10+_Packages-6C63FF?style=flat-square&logoColor=white)
+![Open Source](https://img.shields.io/badge/-Open_Source-3DA639?style=flat-square&logoColor=white)
+
+> 10+ open-source skill packages extending Claude Code:
+
+| Package | Description |
+|---------|-------------|
+| [r-analytics](https://github.com/LeoLin990405/r-analytics-skill) | 93 R data analysis skills |
+| [lenny-skills](https://github.com/LeoLin990405/claude-lenny-skills) | 86 PM skills |
+| [office-skills](https://github.com/LeoLin990405/claude-office-skills) | PDF/DOCX/PPTX/XLSX |
+| [design-skills](https://github.com/LeoLin990405/claude-design-skills) | Art & UI design |
+| [obsidian-skills](https://github.com/LeoLin990405/claude-obsidian-skills) | Note-taking |
+| [ccb-skills](https://github.com/LeoLin990405/claude-ccb-skills) | Multi-AI collab |
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [HiveMind](https://github.com/LeoLin990405/Hivemind)
+**Multi-AI Desktop Platform**
+智能多 AI 协作桌面平台
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+> Full-featured Electron desktop app that intelligently routes tasks to 9+ AI providers. Features agent teams orchestration, MCP protocol support, smart task routing, and real-time collaboration.
+
+</td>
+<td width="50%">
+
+### [CodexBar](https://github.com/LeoLin990405/CodexBar)
+**AI Usage Stats for macOS**
+macOS AI 使用统计工具
+
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+> Native macOS menu bar app showing real-time usage statistics for OpenAI Codex and Claude Code — without needing to log in. Quick access to token usage, costs, and rate limits right from your menu bar.
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -113,157 +255,35 @@ fun_fact: "I route 9 AI providers through a single Gateway"
 
 ---
 
-<!-- Featured Projects Section -->
-## Featured Projects | 重点项目
+<!-- Blog Section -->
+## Latest Blog | 最新博文
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
 
-### [Claude Code Bridge](https://github.com/bfly123/claude_code_bridge)
-**Multi-AI Collaboration Infrastructure**
-多 AI 协作基础设施
+[![Blog](https://img.shields.io/badge/Tech_Blog-leolin990405.github.io/blog-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://leolin990405.github.io/blog/)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Gateway](https://img.shields.io/badge/-Gateway_API-FF9800?style=flat-square&logoColor=white)
-![Agent Teams](https://img.shields.io/badge/-Agent_Teams-6C63FF?style=flat-square&logoColor=white)
-
-> Core contributor to CCB — a bridge between Claude Code and 9+ AI providers. I implemented the **Agent Teams** system (4 phases): agent aliases, team config, smart task routing, and inter-agent communication.
-
-**My Contributions:**
-- Agent name alias system (a/b/c/d mapping)
-- Team config with role/skill definitions
-- Smart routing (keyword + skill matching, CN/EN)
-- Inter-agent messaging (--to, --broadcast, --chain)
-
-</td>
-<td width="50%">
-
-### [xiaotie](https://github.com/LeoLin990405/xiaotie)
-**Lightweight AI Agent Framework**
-轻量级 AI Agent 框架
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/-LLM-FF6B6B?style=flat-square&logoColor=white)
-![Agent](https://img.shields.io/badge/-Agent-00C853?style=flat-square&logoColor=white)
-
-> A minimal yet powerful agent framework. Build autonomous AI agents that can reason, plan, use tools, and execute multi-step tasks — all with clean, readable code.
-
-**Key Features:**
-- Minimal footprint, maximum capability
-- ReAct loop (Reason -> Act -> Observe)
-- Extensible tool system
-- Built-in memory & context management
-- Multi-LLM backend support
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [HiveMind](https://github.com/LeoLin990405/Hivemind)
-**Multi-AI Desktop Platform**
-智能多 AI 协作桌面平台
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-> Full-featured Electron desktop app that intelligently routes tasks to 9+ AI providers. Features agent teams orchestration, MCP protocol support, smart task routing, and real-time collaboration.
-
-**Key Features:**
-- Smart task routing with provider matching
-- Agent Teams for multi-AI orchestration
-- Full MCP protocol support
-- Real-time sync via Socket.IO
-
-</td>
-<td width="50%">
-
-### [Claude Code Skills](https://github.com/LeoLin990405?tab=repositories&q=claude-&type=source)
-**The Largest Claude Skills Ecosystem**
-最大的 Claude Code 技能生态
-
-![Skills](https://img.shields.io/badge/-10+_Packages-6C63FF?style=flat-square&logoColor=white)
-![Open Source](https://img.shields.io/badge/-Open_Source-3DA639?style=flat-square&logoColor=white)
-
-> 10+ open-source skill packages extending Claude Code:
-
-| Package | Description |
-|---------|-------------|
-| [r-analytics](https://github.com/LeoLin990405/r-analytics-skill) | 93 R data analysis skills |
-| [lenny-skills](https://github.com/LeoLin990405/claude-lenny-skills) | 86 PM skills |
-| [office-skills](https://github.com/LeoLin990405/claude-office-skills) | PDF/DOCX/PPTX/XLSX |
-| [design-skills](https://github.com/LeoLin990405/claude-design-skills) | Art & UI design |
-| [obsidian-skills](https://github.com/LeoLin990405/claude-obsidian-skills) | Note-taking |
-| [ccb-skills](https://github.com/LeoLin990405/claude-ccb-skills) | Multi-AI collab |
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [CivAgent](https://github.com/LeoLin990405/CivAgent)
-**57-Civilization AI Multi-Agent Simulation**
-57 文明 AI 多智能体模拟
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Multi-Agent](https://img.shields.io/badge/-Multi--Agent-E91E63?style=flat-square&logoColor=white)
-![Simulation](https://img.shields.io/badge/-Simulation-FF9800?style=flat-square&logoColor=white)
-
-> Large-scale multi-agent simulation where 57 civilizations interact through LLM-powered diplomatic reasoning, trade, and strategic decision-making. Research into emergent behaviors in AI agent societies.
-
-</td>
-<td width="50%">
-
-### [CodexBar](https://github.com/LeoLin990405/CodexBar)
-**AI Usage Stats for macOS**
-macOS AI 使用统计工具
-
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-
-> Native macOS menu bar app showing real-time usage statistics for OpenAI Codex and Claude Code — without needing to log in. Quick access to token usage, costs, and rate limits right from your menu bar.
-
-</td>
-</tr>
-</table>
 </div>
 
----
+### Standalone Essays | 独立文章
 
-<!-- Architecture Diagram -->
-## Multi-AI Architecture | 多 AI 协作架构
+| Essay | Discipline | Key Insight |
+|:------|:-----------|:------------|
+| [Dual-System Theory and AI Agents](https://leolin990405.github.io/blog/2026/03/12/dual-systems-and-ai-agents/) | Behavioral Economics | Kahneman's System 1/2 → fast/slow agent routing, cognitive biases as failure modes |
+| [Herbert Simon and AI Agent Design](https://leolin990405.github.io/blog/2026/03/11/herbert-simon-and-ai-agents/) | Organization Theory | Bounded rationality, satisficing, near-decomposability → agent architecture |
 
-```
-                    ┌──────────────────────────────────────────┐
-                    │         User / Claude Code CLI           │
-                    └──────────────────┬───────────────────────┘
-                                       │
-                         ┌─────────────▼─────────────┐
-                         │   Smart Router (--auto)    │
-                         │  keyword + skill matching  │
-                         └─────────────┬─────────────┘
-                                       │
-                    ┌──────────────────▼──────────────────────┐
-                    │      Claude Code Bridge (Gateway)       │
-                    │  aliases | teams | routing | messaging  │
-                    └──────────────────┬──────────────────────┘
-                                       │
-         ┌────────┬────────┬───────────┼───────────┬────────┬────────┐
-         ▼        ▼        ▼           ▼           ▼        ▼        ▼
-    ┌────────┐┌────────┐┌────────┐┌─────────┐┌──────┐┌────────┐┌────────┐
-    │ Claude ││  GPT   ││ Gemini ││  Kimi   ││ Qwen ││DeepSeek││ iFlow  │
-    │  (c)   ││  (a)   ││  (b)   ││  (d)    ││  (h) ││        ││        │
-    └────────┘└────────┘└────────┘└─────────┘└──────┘└────────┘└────────┘
+### CivAgent Series | CivAgent 系列 (7 Parts)
 
-  Communication Patterns:
-    --to agent     : Directed message (A → B)
-    --broadcast    : Fan-out to all team members
-    --chain a|b|c  : Sequential pipeline with context passing
-    --auto         : Smart routing by content analysis
-```
+> Mapping 5,000 years of political institutions to AI multi-agent architectures — 57 polities, 6 orchestration modes.
+
+| # | Essay | History | AI Pattern |
+|:-:|:------|:--------|:-----------|
+| 1 | [Why AI Orchestration Needs History](https://leolin990405.github.io/blog/2026/03/11/civagent-1-history-as-design-patterns/) | 5000 years of polities | Design pattern library |
+| 2 | [Six Orchestration Modes](https://leolin990405.github.io/blog/2026/03/11/civagent-2-six-orchestration-modes/) | 57 political systems | 6 agent topologies |
+| 3 | [Tang Dynasty Three Departments](https://leolin990405.github.io/blog/2026/03/11/civagent-3-tang-dynasty-quality-gates/) | Draft → Review → Execute | Pipeline quality gates |
+| 4 | [Ming Dynasty Dual-Track](https://leolin990405.github.io/blog/2026/03/11/civagent-4-ming-dynasty-dual-power/) | Inner Court vs Outer Court | N-version programming |
+| 5 | [Athenian Democracy](https://leolin990405.github.io/blog/2026/03/11/civagent-5-athens-distributed-knowledge/) | Ecclesia + Boule + Dikasteria | Distributed knowledge aggregation |
+| 6 | [Persian Satrapies](https://leolin990405.github.io/blog/2026/03/11/civagent-6-persia-eventual-consistency/) | 23 satrapies + Royal Road | Eventual consistency protocols |
+| 7 | [Theory Bridge & Implementation](https://leolin990405.github.io/blog/2026/03/11/civagent-7-theory-and-implementation/) | Cross-disciplinary synthesis | Full architecture blueprint |
 
 ---
 
@@ -298,40 +318,15 @@ macOS AI 使用统计工具
 
 ---
 
-<!-- Blog Section -->
-## Latest Blog | 最新博文
-
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/Tech_Blog-leolin990405.github.io/blog-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://leolin990405.github.io/blog/)
-
-</div>
-
-### CivAgent 系列：从治国智慧到 Agent 编排（7 篇）
-
-> 人类 5000 年的政治制度史是一部**组织架构设计模式库**——57 种政体，6 种 AI 编排模式。
-> *「历史不只是过去的事，它是组织智慧的活化石。」*
-
-1. [问题的提出：为什么 AI 编排需要历史学？](https://leolin990405.github.io/blog/2026/03/11/civagent-1-history-as-design-patterns/)
-2. [六种编排模式的类型学](https://leolin990405.github.io/blog/2026/03/11/civagent-2-six-orchestration-modes/)
-3. [唐代三省六部——质量门控的经典实现](https://leolin990405.github.io/blog/2026/03/11/civagent-3-tang-dynasty-quality-gates/)
-4. [明代双轨制——N-Version Programming](https://leolin990405.github.io/blog/2026/03/11/civagent-4-ming-dynasty-dual-power/)
-5. [雅典民主——分布式知识管理系统](https://leolin990405.github.io/blog/2026/03/11/civagent-5-athens-distributed-knowledge/)
-6. [波斯总督制——最终一致性](https://leolin990405.github.io/blog/2026/03/11/civagent-6-persia-eventual-consistency/)
-7. [跨学科桥梁、技术实现与反思](https://leolin990405.github.io/blog/2026/03/11/civagent-7-theory-and-implementation/)
-
-**Keywords**: Multi-Agent Systems, Political Science, Institutional Design, LLM Orchestration
-
----
-
 <!-- Quote & Footer -->
 <div align="center">
 
 ### Philosophy | 理念
 
-> *"One AI is a tool. Nine AIs working together are a force multiplier."*
+> *"Thinking, fast and slow — the same duality that governs human cognition should govern AI agent architectures."*
+> *— inspired by Daniel Kahneman*
 >
-> *一个 AI 是工具，九个 AI 协同工作才是生产力倍增器。*
+> *快与慢的思考——支配人类认知的同一种二元性，也应当支配 AI 智能体的架构设计。*
 
 <br/>
 
@@ -342,6 +337,9 @@ macOS AI 使用统计工具
 </a>
 <a href="https://github.com/LeoLin990405">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://leolin990405.github.io/blog/">
+  <img src="https://img.shields.io/badge/Blog-Read-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
