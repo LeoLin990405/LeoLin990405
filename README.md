@@ -1,355 +1,211 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=230&section=header&text=Leo%20Lin%20%7C%20林中岳&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Interdisciplinary%20AI%20Researcher%20%E2%80%A2%20History%20%C3%97%20Economics%20%C3%97%20Political%20Science%20%C3%97%20Agent%20Design&descSize=18&descAlignY=55" width="100%" />
-
 <div align="center">
 
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=History+%C3%97+Economics+%C3%97+Political+Science+%C3%97+AI+Agent+Design+%F0%9F%8C%8D;From+5000+Years+of+Institutions+to+Multi-Agent+Orchestration+%F0%9F%8F%9B%EF%B8%8F;Building+the+Largest+Claude+Code+Skills+Ecosystem+%F0%9F%A7%A9" alt="Typing SVG" />
+# Leo Lin | 林中岳
 
-<br/>
+**Interdisciplinary AI builder working across agent systems, knowledge workflows, and applied ML portfolios.**
 
-<!-- Social Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-LeoLin990405-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeoLin990405)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zhongyue_Lin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhongyue-lin-327143207/)
 [![Blog](https://img.shields.io/badge/Blog-leolin990405.github.io-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://leolin990405.github.io/blog/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zhongyue_Lin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhongyue-lin-327143207/)
 [![Profile Views](https://komarev.com/ghpvc/?username=LeoLin990405&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/LeoLin990405)
-[![GitHub Followers](https://img.shields.io/github/followers/LeoLin990405?style=for-the-badge&logo=github&color=236ad3&labelColor=1155ba)](https://github.com/LeoLin990405?tab=followers)
 
 </div>
 
 ---
 
-<!-- About Me Section -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me | 关于我
-
-<table>
-<tr>
-<td width="55%">
+## Current Focus | 当前主线
 
 ```yaml
 name: "Zhongyue Lin (Leo) | 林中岳"
 location: "China"
-role: "Interdisciplinary AI Researcher & Agent Architect"
-
-education:
-  degree: "Data Science & Analytics"
-  research_interests:
-    - "Institutional Design → AI Orchestration"
-    - "Behavioral Economics → Agent Decision-Making"
-    - "Political Science → Multi-Agent Governance"
-    - "Organization Theory → Agent Team Patterns"
-
-current_focus:
-  writing: "Interdisciplinary AI Blog (CivAgent Series)"
-  building: "Multi-AI Collaboration Infrastructure"
-  creating: "xiaotie - Lightweight AI Agent Framework"
-  maintaining: "10+ Claude Code Open Source Skills"
-  researching: "Historical Polities as Agent Design Patterns"
-
-languages: ["中文 (Native)", "English (Fluent)"]
-philosophy: "5000 years of institutional wisdom → AI architecture"
+working_on:
+  - "Codex / Claude Code skill ecosystems"
+  - "Multi-model agent teams and AI workflow infrastructure"
+  - "Knowledge Hub: Obsidian-based course notes, research notes, and WeChat archives"
+  - "Applied ML and data-analysis portfolio projects"
+research_bridge:
+  - "History and institutional design -> multi-agent orchestration"
+  - "Behavioral economics -> agent routing and evaluation"
+  - "Knowledge management -> durable AI memory workflows"
+languages: ["中文", "English"]
 ```
 
-</td>
-<td width="45%">
+I build practical AI tooling around a simple question:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLin990405&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" width="100%" />
+> How do we turn messy human workflows into reliable, inspectable, reusable agent systems?
 
-</td>
-</tr>
-</table>
-
-### What I Do | 我做什么
-
-> **Interdisciplinary AI Researcher** — I map patterns from political science, behavioral economics, and organizational theory onto AI multi-agent architectures. My CivAgent series demonstrates how 5,000 years of institutional design — from Tang Dynasty quality gates to Athenian distributed consensus — directly inform modern agent orchestration patterns.
->
-> **Multi-AI Architect** — I build systems that make 9+ AI providers (Claude, GPT, Gemini, DeepSeek, Kimi, Qwen...) collaborate as unified agent teams. From smart task routing to inter-agent communication pipelines.
->
-> **Open Source Creator** — I build and maintain the largest Claude Code Skills ecosystem with 10+ packages, and contribute to multi-AI collaboration infrastructure used by developers worldwide.
+我关注的是把真实工作流沉淀成可复用的智能体系统：能调度模型、能整理知识、能留下上下文，也能在需要时被人工审查。
 
 ---
 
-<!-- Interdisciplinary Research Section -->
-## Interdisciplinary Research | 跨学科研究
+## Maintained Project Map | 维护中的项目地图
 
-<div align="center">
-
-> *"History is not just the past — it is a living fossil of organizational wisdom."*
-> *历史不只是过去的事，它是组织智慧的活化石。*
-
-</div>
-
-My research bridges **humanities and social sciences** with **AI systems engineering**:
-
-| Discipline | Theory Source | AI Application | Blog Series |
-|:---:|:---|:---|:---:|
-| **History** | Tang 3-Department System, Persian Satrapies | Quality gates, eventual consistency | CivAgent |
-| **Political Science** | 57 polities, 6 governance modes | Multi-agent orchestration patterns | CivAgent |
-| **Behavioral Economics** | Kahneman's Dual-System Theory | Fast/slow agent routing, bias mitigation | Standalone |
-| **Organization Theory** | Simon's Bounded Rationality | Satisficing strategies, near-decomposability | Standalone |
+| Area | Canonical Repository | Status | Notes |
+|---|---|---:|---|
+| Skills ecosystem | [claude-code-skills](https://github.com/LeoLin990405/claude-code-skills) | Active | Canonical public monorepo for installable Codex / Claude Code skills. `67` canonical installable units, `89` default install units. |
+| Document parsing skill | [mineru-skill](https://github.com/LeoLin990405/mineru-skill) | Active | Standalone MinerU API skill with CLI helper, examples, and release surface. |
+| R analytics skill | [r-analytics-skill](https://github.com/LeoLin990405/r-analytics-skill) | Active | R analytics pack with package-level data, stats, ML, spatial, NLP, and visualization workflows. |
+| WeChat archive skill | `wechat-public-account-archive-skill` | Private active | Archives WeChat public account articles into Knowledge Hub while keeping auth material out of notes. |
+| YouTube clipping skill | `youtube-clipper-skill` | Private active | Codex-ready video clipping workflow: download, semantic chaptering, bilingual subtitles, and summaries. |
+| Knowledge base | [Knowledge-Hub](https://github.com/LeoLin990405/Knowledge-Hub) | Active | Obsidian-based CS self-study vault and long-term knowledge system. |
+| Applied ML portfolio | [udacity-masters-ai-projects](https://github.com/LeoLin990405/udacity-masters-ai-projects) | Active index | Portfolio entry point for Udacity AI / ML / data analysis projects. |
+| Landmark classifier | [landmark-classifier](https://github.com/LeoLin990405/landmark-classifier) | Completed | M5 retraining artifacts merged; transfer model passes rubric and scratch CNN now has a stronger trained baseline. |
+| Multi-agent research | [civagent](https://github.com/LeoLin990405/civagent) | Active / public | Historical governance systems as agent orchestration patterns. |
+| macOS usage monitor | [CodexBar](https://github.com/LeoLin990405/CodexBar) | Fork / contribution | Usage stats for Codex and Claude Code, plus provider experiments. |
 
 ---
 
-<!-- Featured Projects Section -->
-## Featured Projects | 重点项目
+## Skills Ecosystem | 技能生态
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
+The skill ecosystem is being consolidated around one public canonical repository:
 
-### [CivAgent Series](https://leolin990405.github.io/blog/)
-**57-Civilization → 6 AI Orchestration Modes**
-57 种政体 → 6 种 AI 编排模式
+### [claude-code-skills](https://github.com/LeoLin990405/claude-code-skills)
 
-![Research](https://img.shields.io/badge/-Research-E91E63?style=flat-square&logoColor=white)
-![History](https://img.shields.io/badge/-History-d29922?style=flat-square&logoColor=white)
-![AI](https://img.shields.io/badge/-Multi--Agent-6C63FF?style=flat-square&logoColor=white)
+```text
+productivity        Obsidian, NotebookLM, Google Workspace, Knowledge Hub
+development         MCP, frontend, repo design, D3, R analytics, SQL workflows
+documents           PDF, DOCX, PPTX, XLSX, MinerU, document coauthoring
+research            scientific skills, STEM modeling, history notes, macro research
+ai-collaboration    multi-provider orchestration, agent teams, skill discovery
+product-management  Lenny-inspired PM frameworks and playbooks
+design              themes, CLI demos, visual assets
+system              proxy, CDP, SVN, internal comms, OSS contribution
+```
 
-> 7-part bilingual essay series mapping 5,000 years of political institutions to AI multi-agent architecture patterns. From Tang Dynasty quality gates to Athenian distributed knowledge aggregation.
+Recent consolidation work:
 
-**Key Mappings:**
-- Tang 3-Dept → Pipeline quality gates
-- Ming Dual-Track → N-version programming
-- Athens Democracy → Distributed consensus
-- Persian Satrapies → Eventual consistency
+- Category toolkit routers now install correctly.
+- Legacy wrappers such as `all-plan`, provider-specific shims, and `pm-*` aliases are separated from the canonical install surface.
+- External nested submodule packs are documented without being flattened into the default install path.
+- Older source repos are being treated as migration sources or standalone release surfaces, not as parallel canonical homes.
 
-</td>
-<td width="50%">
+Standalone skills kept separate because they still have independent value:
 
-### [Claude Code Bridge](https://github.com/bfly123/claude_code_bridge)
-**Multi-AI Collaboration Infrastructure**
-多 AI 协作基础设施
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Gateway](https://img.shields.io/badge/-Gateway_API-FF9800?style=flat-square&logoColor=white)
-![Agent Teams](https://img.shields.io/badge/-Agent_Teams-6C63FF?style=flat-square&logoColor=white)
-
-> Core contributor to CCB — a bridge between Claude Code and 9+ AI providers. I implemented the **Agent Teams** system (4 phases): agent aliases, team config, smart task routing, and inter-agent communication.
-
-**My Contributions:**
-- Agent name alias system (a/b/c/d mapping)
-- Team config with role/skill definitions
-- Smart routing (keyword + skill matching, CN/EN)
-- Inter-agent messaging (--to, --broadcast, --chain)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [xiaotie](https://github.com/LeoLin990405/xiaotie)
-**Lightweight AI Agent Framework**
-轻量级 AI Agent 框架
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/-LLM-FF6B6B?style=flat-square&logoColor=white)
-![Agent](https://img.shields.io/badge/-Agent-00C853?style=flat-square&logoColor=white)
-
-> A minimal yet powerful agent framework. Build autonomous AI agents that can reason, plan, use tools, and execute multi-step tasks — all with clean, readable code.
-
-**Key Features:**
-- Minimal footprint, maximum capability
-- ReAct loop (Reason -> Act -> Observe)
-- Extensible tool system
-- Built-in memory & context management
-- Multi-LLM backend support
-
-</td>
-<td width="50%">
-
-### [Claude Code Skills](https://github.com/LeoLin990405?tab=repositories&q=claude-&type=source)
-**The Largest Claude Skills Ecosystem**
-最大的 Claude Code 技能生态
-
-![Skills](https://img.shields.io/badge/-10+_Packages-6C63FF?style=flat-square&logoColor=white)
-![Open Source](https://img.shields.io/badge/-Open_Source-3DA639?style=flat-square&logoColor=white)
-
-> 10+ open-source skill packages extending Claude Code:
-
-| Package | Description |
-|---------|-------------|
-| [r-analytics](https://github.com/LeoLin990405/r-analytics-skill) | 93 R data analysis skills |
-| [lenny-skills](https://github.com/LeoLin990405/claude-lenny-skills) | 86 PM skills |
-| [office-skills](https://github.com/LeoLin990405/claude-office-skills) | PDF/DOCX/PPTX/XLSX |
-| [design-skills](https://github.com/LeoLin990405/claude-design-skills) | Art & UI design |
-| [obsidian-skills](https://github.com/LeoLin990405/claude-obsidian-skills) | Note-taking |
-| [ccb-skills](https://github.com/LeoLin990405/claude-ccb-skills) | Multi-AI collab |
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [HiveMind](https://github.com/LeoLin990405/Hivemind)
-**Multi-AI Desktop Platform**
-智能多 AI 协作桌面平台
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-> Full-featured Electron desktop app that intelligently routes tasks to 9+ AI providers. Features agent teams orchestration, MCP protocol support, smart task routing, and real-time collaboration.
-
-</td>
-<td width="50%">
-
-### [CodexBar](https://github.com/LeoLin990405/CodexBar)
-**AI Usage Stats for macOS**
-macOS AI 使用统计工具
-
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-
-> Native macOS menu bar app showing real-time usage statistics for OpenAI Codex and Claude Code — without needing to log in. Quick access to token usage, costs, and rate limits right from your menu bar.
-
-</td>
-</tr>
-</table>
-</div>
+| Repo | Why It Stays Separate |
+|---|---|
+| [mineru-skill](https://github.com/LeoLin990405/mineru-skill) | Has CLI helpers, examples, changelog, and an independent document parsing workflow. |
+| [r-analytics-skill](https://github.com/LeoLin990405/r-analytics-skill) | Large package-level R workflow surface, useful as its own canonical pack. |
+| `wechat-public-account-archive-skill` | Private local workflow with auth-sensitive operational scripts. |
+| `youtube-clipper-skill` | Private media workflow with local configuration and output paths. |
 
 ---
 
-<!-- Tech Stack Section -->
+## Agent Systems | 智能体系统
+
+### Multi-model collaboration
+
+I work on patterns for routing tasks across multiple model families and agent roles:
+
+- role-based agent teams
+- model/provider aliases
+- smart task routing by skill, language, and intent
+- inter-agent messaging and review loops
+- durable context handoff between humans and models
+
+Related repositories:
+
+| Repository | Role |
+|---|---|
+| [mmteam-cc](https://github.com/LeoLin990405/mmteam-cc) | Multi-model agent team experiments for Claude Code-style workflows. |
+| [civagent](https://github.com/LeoLin990405/civagent) | Governance systems as agent orchestration patterns. |
+| [xiaotie](https://github.com/LeoLin990405/xiaotie) | Lightweight AI agent framework experiments. |
+| [Hivemind](https://github.com/LeoLin990405/Hivemind) | Multi-AI routing and desktop collaboration prototype. |
+| [blog](https://github.com/LeoLin990405/blog) | Essays connecting history, social science, and agent architecture. |
+
+---
+
+## Research Bridge | 跨学科研究
+
+My favorite ideas come from treating old institutions as tested coordination systems.
+
+| Discipline | Source Pattern | AI / Agent Application |
+|---|---|---|
+| History | Tang three-department review, Persian satrapies, Athenian councils | quality gates, federated delegation, distributed judgment |
+| Political science | governance modes and institutional constraints | agent topologies, authority boundaries, escalation paths |
+| Behavioral economics | fast/slow thinking, bounded rationality | model routing, evaluator design, failure-mode analysis |
+| Knowledge management | notes, links, indexes, evidence trails | durable memory, research archives, retrieval-ready context |
+
+Blog entry point: [leolin990405.github.io/blog](https://leolin990405.github.io/blog/)
+
+---
+
+## Applied ML Portfolio | 应用机器学习作品集
+
+Main index: [udacity-masters-ai-projects](https://github.com/LeoLin990405/udacity-masters-ai-projects)
+
+Selected projects:
+
+| Project | Focus |
+|---|---|
+| [landmark-classifier](https://github.com/LeoLin990405/landmark-classifier) | PyTorch landmark classification, MPS retraining, transfer learning, full submission artifacts. |
+| [teaching-llm-to-count](https://github.com/LeoLin990405/teaching-llm-to-count) | GRPO + LoRA experiments for teaching an LLM to count. |
+| [agentsville-trip-planner](https://github.com/LeoLin990405/agentsville-trip-planner) | Agentic AI trip planning with ReACT-style workflows. |
+| [face-generation](https://github.com/LeoLin990405/face-generation) | DCGAN face generation project. |
+| [text-translation-sentiment](https://github.com/LeoLin990405/text-translation-sentiment) | Translation + sentiment pipeline using Hugging Face tooling. |
+| [sentimentscope-imdb](https://github.com/LeoLin990405/sentimentscope-imdb) | Transformer-based IMDB sentiment analysis. |
+
+Older course repositories remain useful as project records, while the portfolio index is the preferred entry point.
+
+---
+
+## Repo Governance | 仓库治理
+
+I am gradually reducing repo sprawl:
+
+| Keep Maintaining | Consolidate / Redirect | Archive When Safe |
+|---|---|---|
+| `claude-code-skills` | `claude-lenny-skills` -> product-management packs | old migrated skill source repos |
+| `mineru-skill` | `claude-office-skills` -> documents packs | thin wrappers with no independent release surface |
+| `r-analytics-skill` | `claude-design-skills` -> design packs | stale forks without active PRs |
+| `Knowledge-Hub` | `claude-obsidian-skills` -> productivity packs | one-off course repos after portfolio indexing |
+| `civagent` | `github-repo-design-skill` -> development pack | duplicate awesome lists after blog/Knowledge Hub import |
+
+Principles:
+
+- one canonical home per workflow
+- no secrets or auth material in public repos
+- private repos for operational scripts with local credentials
+- public repos for reusable frameworks, skills, and portfolio artifacts
+- README files should tell users where the maintained surface now lives
+
+---
+
 ## Tech Stack | 技术栈
 
 <div align="center">
 
-### Languages | 编程语言
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### AI / LLM / Agent
-![Claude](https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Protocol-6C63FF?style=for-the-badge&logo=anthropic&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-0066FF?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
-### Frontend & Desktop
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-6C63FF?style=for-the-badge&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 
 </div>
 
 ---
 
-<!-- Blog Section -->
-## Latest Blog | 最新博文
-
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/Tech_Blog-leolin990405.github.io/blog-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://leolin990405.github.io/blog/)
-
-</div>
-
-### Standalone Essays | 独立文章
-
-| Essay | Discipline | Key Insight |
-|:------|:-----------|:------------|
-| [Dual-System Theory and AI Agents](https://leolin990405.github.io/blog/2026/03/12/dual-systems-and-ai-agents/) | Behavioral Economics | Kahneman's System 1/2 → fast/slow agent routing, cognitive biases as failure modes |
-| [Herbert Simon and AI Agent Design](https://leolin990405.github.io/blog/2026/03/11/herbert-simon-and-ai-agents/) | Organization Theory | Bounded rationality, satisficing, near-decomposability → agent architecture |
-
-### CivAgent Series | CivAgent 系列 (7 Parts)
-
-> Mapping 5,000 years of political institutions to AI multi-agent architectures — 57 polities, 6 orchestration modes.
-
-| # | Essay | History | AI Pattern |
-|:-:|:------|:--------|:-----------|
-| 1 | [Why AI Orchestration Needs History](https://leolin990405.github.io/blog/2026/03/11/civagent-1-history-as-design-patterns/) | 5000 years of polities | Design pattern library |
-| 2 | [Six Orchestration Modes](https://leolin990405.github.io/blog/2026/03/11/civagent-2-six-orchestration-modes/) | 57 political systems | 6 agent topologies |
-| 3 | [Tang Dynasty Three Departments](https://leolin990405.github.io/blog/2026/03/11/civagent-3-tang-dynasty-quality-gates/) | Draft → Review → Execute | Pipeline quality gates |
-| 4 | [Ming Dynasty Dual-Track](https://leolin990405.github.io/blog/2026/03/11/civagent-4-ming-dynasty-dual-power/) | Inner Court vs Outer Court | N-version programming |
-| 5 | [Athenian Democracy](https://leolin990405.github.io/blog/2026/03/11/civagent-5-athens-distributed-knowledge/) | Ecclesia + Boule + Dikasteria | Distributed knowledge aggregation |
-| 6 | [Persian Satrapies](https://leolin990405.github.io/blog/2026/03/11/civagent-6-persia-eventual-consistency/) | 23 satrapies + Royal Road | Eventual consistency protocols |
-| 7 | [Theory Bridge & Implementation](https://leolin990405.github.io/blog/2026/03/11/civagent-7-theory-and-implementation/) | Cross-disciplinary synthesis | Full architecture blueprint |
-
----
-
-<!-- GitHub Stats Section -->
 ## GitHub Stats | 数据统计
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LeoLin990405&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&ring_color=6C63FF&icon_color=6C63FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=LeoLin990405&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeoLin990405&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLin990405&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" />
 
 </div>
 
 ---
 
-<!-- Trophies -->
-## GitHub Trophies | 成就奖杯
+## Contact | 联系
 
-<div align="center">
+- GitHub: [@LeoLin990405](https://github.com/LeoLin990405)
+- Blog: [leolin990405.github.io/blog](https://leolin990405.github.io/blog/)
+- LinkedIn: [Zhongyue Lin](https://www.linkedin.com/in/zhongyue-lin-327143207/)
 
-<img src="https://github-profile-trophy.vercel.app/?username=LeoLin990405&theme=tokyonight&no-frame=true&column=7&margin-w=10&no-bg=true" />
-
-</div>
-
----
-
-<!-- Quote & Footer -->
-<div align="center">
-
-### Philosophy | 理念
-
-> *"Thinking, fast and slow — the same duality that governs human cognition should govern AI agent architectures."*
-> *— inspired by Daniel Kahneman*
->
-> *快与慢的思考——支配人类认知的同一种二元性，也应当支配 AI 智能体的架构设计。*
-
-<br/>
-
-### Let's Connect | 联系我
-
-<a href="https://www.linkedin.com/in/zhongyue-lin-327143207/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/LeoLin990405">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://leolin990405.github.io/blog/">
-  <img src="https://img.shields.io/badge/Blog-Read-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**If you find my projects useful, consider giving them a star!**
-
-**如果觉得我的项目有用，请给个 Star 支持一下！**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%" />
-
-</div>
+If one of my projects is useful, a star is always appreciated.
