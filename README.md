@@ -38,12 +38,24 @@ I build practical AI tooling around a simple question:
 
 ---
 
+## Recent Updates | 最近更新
+
+**2026-06-03**
+
+- 🏛️ **`skills-master`** — promoted the local skill index to a callable *Skill Strategist* mother skill: 12 disclosure-style categories, 7 enforced workflows (create / merge / archive / audit / integrate-external / placement-decision), 3 templates, and pre-flight router. Skills can now be authored, merged, archived, and integrated under a single governed flow.
+- 🔥 **`grimoire-skill v2`** — repositioned from a PDF / video tool into a general-purpose *Skill Forge Engine*. New input adapters for webpage, Obsidian vault, GitHub repo, and audio (whisper.cpp). Auto-classifies sources into the 12 `skills-master` categories, so the manager calls the engine and the engine writes back manifests the manager can index. Tests: 166 / 166 pass. ([PR #16](https://github.com/LeoLin990405/grimoire-skill/pull/16))
+- 📚 **Product methodology stack completed (6 books distilled into 18 skills)** — Perri (strategy), Cagan (quarter), Torres (week), Fitzpatrick (sentence), Olsen (process), Nika (AI-PM). All distilled via the `book-distill-pipeline` mother skill into a uniform 3-skill-per-book structure (thin index + two thick workflows) plus Obsidian notes (~14,900 lines under `Books/`).
+- 🧹 **Skill graph consolidation** — pruned 632 local skills to 601 via 13 deletions, 5 cluster merges, and 2 new meta indexes (full archive at `~/.claude/archive/skills-merger-20260603/` for rollback).
+- 🗄️ **GitHub repo cleanup** — archived 65 completed Udacity / coursework projects and 3 historical skill repos; cloned all 18 skill-related repos into a 40 MB archival tarball. 24 ARIS research skills integrated into local skill graph.
+
+---
+
 ## Maintained Project Map | 维护中的项目地图
 
 | Area | Canonical Repository | Status | Notes |
 |---|---|---:|---|
-| Skills ecosystem | [claude-code-skills](https://github.com/LeoLin990405/claude-code-skills) | Active | Canonical public monorepo for installable Codex / Claude Code skills. `67` canonical installable units, `89` default install units. |
-| Document parsing skill | [mineru-skill](https://github.com/LeoLin990405/mineru-skill) | Active | Standalone MinerU API skill with CLI helper, examples, and release surface. |
+| Skills ecosystem | [claude-code-skills](https://github.com/LeoLin990405/claude-code-skills) | Active | Canonical public monorepo for installable Codex / Claude Code skills. 60+ skill units organized by category. |
+| Skill Forge Engine | [grimoire-skill](https://github.com/LeoLin990405/grimoire-skill) | Active (v2) | General-purpose skill forge — turn any source (PDF / video / webpage / Obsidian / GitHub repo / audio) into Claude Code skills. Used as the underlying engine by `skills-master`. |
 | R analytics skill | [r-analytics-skill](https://github.com/LeoLin990405/r-analytics-skill) | Active | R analytics pack with package-level data, stats, ML, spatial, NLP, and visualization workflows. |
 | WeChat archive skill | `wechat-public-account-archive-skill` | Private active | Archives WeChat public account articles into Knowledge Hub while keeping auth material out of notes. |
 | YouTube clipping skill | `youtube-clipper-skill` | Private active | Codex-ready video clipping workflow: download, semantic chaptering, bilingual subtitles, and summaries. |
@@ -83,7 +95,7 @@ Standalone skills kept separate because they still have independent value:
 
 | Repo | Why It Stays Separate |
 |---|---|
-| [mineru-skill](https://github.com/LeoLin990405/mineru-skill) | Has CLI helpers, examples, changelog, and an independent document parsing workflow. |
+| [grimoire-skill](https://github.com/LeoLin990405/grimoire-skill) | Skill Forge Engine v2 — turn any source into a Claude Code skill, with adapters for PDF / video / webpage / Obsidian vault / GitHub repo / audio. |
 | [r-analytics-skill](https://github.com/LeoLin990405/r-analytics-skill) | Large package-level R workflow surface, useful as its own canonical pack. |
 | `wechat-public-account-archive-skill` | Private local workflow with auth-sensitive operational scripts. |
 | `youtube-clipper-skill` | Private media workflow with local configuration and output paths. |
@@ -155,7 +167,7 @@ I am gradually reducing repo sprawl:
 | Keep Maintaining | Consolidate / Redirect | Archive When Safe |
 |---|---|---|
 | `claude-code-skills` | `claude-lenny-skills` -> product-management packs | old migrated skill source repos |
-| `mineru-skill` | `claude-office-skills` -> documents packs | thin wrappers with no independent release surface |
+| `grimoire-skill` | `claude-office-skills` -> documents packs | thin wrappers with no independent release surface |
 | `r-analytics-skill` | `claude-design-skills` -> design packs | stale forks without active PRs |
 | `Knowledge-Hub` | `claude-obsidian-skills` -> productivity packs | one-off course repos after portfolio indexing |
 | `civagent` | `github-repo-design-skill` -> development pack | duplicate awesome lists after blog/Knowledge Hub import |
