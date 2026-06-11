@@ -40,13 +40,19 @@ I build practical AI tooling around a simple question:
 
 ## Recent Updates | 最近更新
 
+**2026-06-10**
+
+- 🛠️ **Upstream CodexBar contributions** — three fixes merged into [steipete/CodexBar](https://github.com/steipete/CodexBar): a Claude web session-recovery action ([#1378](https://github.com/steipete/CodexBar/pull/1378)), a Doubao false-100%-usage fix ([#1383](https://github.com/steipete/CodexBar/pull/1383)), and a macOS 26 menu-tracking fix that defers copy-icon work off the `NSMenu` tracking loop to kill the beachball ([#1389](https://github.com/steipete/CodexBar/pull/1389)).
+- 🧩 **OpenCLI adapter work** — multiple adapters merged into [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI): a `manus.im` read-only adapter ([#1837](https://github.com/jackwener/OpenCLI/pull/1837)), Gemini `status / history / detail / read` commands ([#1838](https://github.com/jackwener/OpenCLI/pull/1838)), plus new `kimi`, `qoder`, `trae-solo`, `antigravity`, and `codex` adapters with conversation-management commands.
+- 📐 **Math-foundation notes** — chapter-level bilingual notes landing in [Knowledge-Hub](https://github.com/LeoLin990405/Knowledge-Hub): a full *Elements of Information Theory* walkthrough (17 chapters + index) and the start of a `CS-DIY/数学基础` track (MIT 18.06 linear algebra, convex optimization, deep learning).
+- 🏛️ **`csdiy-deep-enhance` mother skill** — froze the CMU 15-445 deep-enhancement methodology (3-phase rebuild: link repair → per-lecture enrichment → auxiliary notes) into a reusable mother skill, so any course can be upgraded to the same standard with one trigger.
+
 **2026-06-03**
 
-- 🏛️ **`skills-master`** — promoted the local skill index to a callable *Skill Strategist* mother skill: 12 disclosure-style categories, 7 enforced workflows (create / merge / archive / audit / integrate-external / placement-decision), 3 templates, and pre-flight router. Skills can now be authored, merged, archived, and integrated under a single governed flow.
-- 🔥 **`grimoire-skill v2`** — repositioned from a PDF / video tool into a general-purpose *Skill Forge Engine*. New input adapters for webpage, Obsidian vault, GitHub repo, and audio (whisper.cpp). Auto-classifies sources into the 12 `skills-master` categories, so the manager calls the engine and the engine writes back manifests the manager can index. Tests: 166 / 166 pass. ([PR #16](https://github.com/LeoLin990405/grimoire-skill/pull/16))
-- 📚 **Product methodology stack completed (6 books distilled into 18 skills)** — Perri (strategy), Cagan (quarter), Torres (week), Fitzpatrick (sentence), Olsen (process), Nika (AI-PM). All distilled via the `book-distill-pipeline` mother skill into a uniform 3-skill-per-book structure (thin index + two thick workflows) plus Obsidian notes (~14,900 lines under `Books/`).
-- 🧹 **Skill graph consolidation** — pruned 632 local skills to 601 via 13 deletions, 5 cluster merges, and 2 new meta indexes (full archive at `~/.claude/archive/skills-merger-20260603/` for rollback).
-- 🗄️ **GitHub repo cleanup** — archived 65 completed Udacity / coursework projects and 3 historical skill repos; cloned all 18 skill-related repos into a 40 MB archival tarball. 24 ARIS research skills integrated into local skill graph.
+- 🏛️ **`skills-master`** — promoted the local skill index to a callable *Skill Strategist* mother skill: 12 disclosure-style categories, 7 enforced workflows (create / merge / archive / audit / integrate-external / placement-decision), 3 templates, and a pre-flight router. Skills can now be authored, merged, archived, and integrated under a single governed flow.
+- 🔥 **`grimoire-skill` v2 (in progress)** — proposed refactor from a PDF/video tool into a general-purpose *Skill Forge Engine* with input adapters for webpage, Obsidian vault, GitHub repo, and audio, auto-classified into the 12 `skills-master` categories. Tracked in [PR #16](https://github.com/LeoLin990405/grimoire-skill/pull/16) (open); the shipped repo is still the MinerU document-parsing skill.
+- 📚 **Product-methodology stack (6 books → 18 skills)** — Perri (strategy), Cagan (quarter), Torres (week), Fitzpatrick (sentence), Olsen (process), Nika (AI-PM). All distilled via the `book-distill-pipeline` mother skill into a uniform 3-skill-per-book structure plus Obsidian notes (~14,900 lines under `Books/`).
+- 🧹 **Skill-graph consolidation** — pruned 632 local skills to 601 via 13 deletions, 5 cluster merges, and 2 new meta indexes (full archive kept for rollback).
 
 ---
 
@@ -55,15 +61,15 @@ I build practical AI tooling around a simple question:
 | Area | Canonical Repository | Status | Notes |
 |---|---|---:|---|
 | Skills ecosystem | [claude-code-skills](https://github.com/LeoLin990405/claude-code-skills) | Active | Canonical public monorepo for installable Codex / Claude Code skills. 60+ skill units organized by category. |
-| Skill Forge Engine | [grimoire-skill](https://github.com/LeoLin990405/grimoire-skill) | Active (v2) | General-purpose skill forge — turn any source (PDF / video / webpage / Obsidian / GitHub repo / audio) into Claude Code skills. Used as the underlying engine by `skills-master`. |
+| Document → skill engine | [grimoire-skill](https://github.com/LeoLin990405/grimoire-skill) | Active | MinerU document-parsing skill (PDF / DOC / PPT / image → Markdown / JSON). A v2 *Skill Forge Engine* refactor is proposed in [PR #16](https://github.com/LeoLin990405/grimoire-skill/pull/16). |
 | R analytics skill | [r-analytics-skill](https://github.com/LeoLin990405/r-analytics-skill) | Active | R analytics pack with package-level data, stats, ML, spatial, NLP, and visualization workflows. |
-| WeChat archive skill | `wechat-public-account-archive-skill` | Private active | Archives WeChat public account articles into Knowledge Hub while keeping auth material out of notes. |
+| WeChat archive skill | `wechat-public-account-archive-skill` | Private active | Archives WeChat public-account articles into Knowledge Hub while keeping auth material out of notes. |
 | YouTube clipping skill | `youtube-clipper-skill` | Private active | Codex-ready video clipping workflow: download, semantic chaptering, bilingual subtitles, and summaries. |
-| Knowledge base | [Knowledge-Hub](https://github.com/LeoLin990405/Knowledge-Hub) | Active | Obsidian-based CS self-study vault and long-term knowledge system. |
-| Applied ML portfolio | [udacity-masters-ai-projects](https://github.com/LeoLin990405/udacity-masters-ai-projects) | Active index | Portfolio entry point for Udacity AI / ML / data analysis projects. |
-| Landmark classifier | [landmark-classifier](https://github.com/LeoLin990405/landmark-classifier) | Completed | M5 retraining artifacts merged; transfer model passes rubric and scratch CNN now has a stronger trained baseline. |
-| Multi-agent research | [civagent](https://github.com/LeoLin990405/civagent) | Active / public | Historical governance systems as agent orchestration patterns. |
-| macOS usage monitor | [CodexBar](https://github.com/LeoLin990405/CodexBar) | Fork / contribution | Usage stats for Codex and Claude Code, plus provider experiments. |
+| Knowledge base | [Knowledge-Hub](https://github.com/LeoLin990405/Knowledge-Hub) | Active | Obsidian-based CS self-study vault (1300+ lecture notes) and long-term knowledge system. |
+| Applied ML portfolio | [udacity-masters-ai-projects](https://github.com/LeoLin990405/udacity-masters-ai-projects) | Active index | Portfolio entry point for Udacity AI / ML / data-analysis projects. |
+| Multi-agent research | [civagent](https://github.com/LeoLin990405/civagent) | Active / public | 57 historical governance systems as agent-orchestration patterns (⭐ 37). |
+| macOS usage monitor | [CodexBar](https://github.com/LeoLin990405/CodexBar) | Upstream contributor | Usage stats for Codex and Claude Code; several fixes merged into upstream [steipete/CodexBar](https://github.com/steipete/CodexBar). |
+| Browser-as-CLI | [OpenCLI](https://github.com/LeoLin990405/OpenCLI) | Upstream contributor | Drive any logged-in website as a CLI; multiple adapters merged into upstream [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI). |
 
 ---
 
@@ -84,18 +90,16 @@ design              themes, CLI demos, visual assets
 system              proxy, CDP, SVN, internal comms, OSS contribution
 ```
 
-Recent consolidation work:
+Governance is handled by two mother skills:
 
-- Category toolkit routers now install correctly.
-- Legacy wrappers such as `all-plan`, provider-specific shims, and `pm-*` aliases are separated from the canonical install surface.
-- External nested submodule packs are documented without being flattened into the default install path.
-- Older source repos are being treated as migration sources or standalone release surfaces, not as parallel canonical homes.
+- **`skills-master`** — the strategist: classifies, merges, archives, and audits skills under one governed flow.
+- **`grimoire-skill`** — the engine: turns source material (currently PDF/DOC/PPT via MinerU) into draft skills; a v2 multi-adapter Skill Forge Engine is proposed in [PR #16](https://github.com/LeoLin990405/grimoire-skill/pull/16).
 
 Standalone skills kept separate because they still have independent value:
 
 | Repo | Why It Stays Separate |
 |---|---|
-| [grimoire-skill](https://github.com/LeoLin990405/grimoire-skill) | Skill Forge Engine v2 — turn any source into a Claude Code skill, with adapters for PDF / video / webpage / Obsidian vault / GitHub repo / audio. |
+| [grimoire-skill](https://github.com/LeoLin990405/grimoire-skill) | Document → skill engine (MinerU), with a v2 multi-adapter refactor in flight. |
 | [r-analytics-skill](https://github.com/LeoLin990405/r-analytics-skill) | Large package-level R workflow surface, useful as its own canonical pack. |
 | `wechat-public-account-archive-skill` | Private local workflow with auth-sensitive operational scripts. |
 | `youtube-clipper-skill` | Private media workflow with local configuration and output paths. |
@@ -118,8 +122,8 @@ Related repositories:
 
 | Repository | Role |
 |---|---|
-| [mmteam-cc](https://github.com/LeoLin990405/mmteam-cc) | Multi-model agent team experiments for Claude Code-style workflows. |
-| [civagent](https://github.com/LeoLin990405/civagent) | Governance systems as agent orchestration patterns. |
+| [mmteam-cc](https://github.com/LeoLin990405/mmteam-cc) | Multi-model agent-team experiments for Claude Code-style workflows. |
+| [civagent](https://github.com/LeoLin990405/civagent) | Governance systems as agent-orchestration patterns. |
 | [xiaotie](https://github.com/LeoLin990405/xiaotie) | Lightweight AI agent framework experiments. |
 | [Hivemind](https://github.com/LeoLin990405/Hivemind) | Multi-AI routing and desktop collaboration prototype. |
 | [blog](https://github.com/LeoLin990405/blog) | Essays connecting history, social science, and agent architecture. |
@@ -170,7 +174,7 @@ I am gradually reducing repo sprawl:
 | `grimoire-skill` | `claude-office-skills` -> documents packs | thin wrappers with no independent release surface |
 | `r-analytics-skill` | `claude-design-skills` -> design packs | stale forks without active PRs |
 | `Knowledge-Hub` | `claude-obsidian-skills` -> productivity packs | one-off course repos after portfolio indexing |
-| `civagent` | `github-repo-design-skill` -> development pack | duplicate awesome lists after blog/Knowledge Hub import |
+| `civagent` | `github-repo-design-skill` -> development pack | duplicate awesome lists after blog / Knowledge Hub import |
 
 Principles:
 
