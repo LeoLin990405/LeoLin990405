@@ -19,9 +19,10 @@
 name: "Zhongyue Lin (Leo) | 林中岳"
 location: "China"
 working_on:
-  - "Codex / Claude Code skill ecosystems"
+  - "Codex / Claude Code skill ecosystems, governed by mother skills"
+  - "Upstream OSS contributions: CodexBar, RepoBar, OpenCLI"
   - "Multi-model agent teams and AI workflow infrastructure"
-  - "Knowledge Hub: Obsidian-based course notes, research notes, and WeChat archives"
+  - "Knowledge Hub: a public Obsidian + Quartz CS self-study wiki"
   - "Applied ML and data-analysis portfolio projects"
 research_bridge:
   - "History and institutional design -> multi-agent orchestration"
@@ -39,6 +40,13 @@ I build practical AI tooling around a simple question:
 ---
 
 ## Recent Updates | 最近更新
+
+**2026-06-16**
+
+- 🧰 **RepoBar upstream contributions** — opened a new upstream relationship with [steipete/RepoBar](https://github.com/steipete/RepoBar) (repo CI / issue / PR / release status in the menu bar): a compact stat-badge rounding fix ([#81](https://github.com/steipete/RepoBar/pull/81)) and opt-in release notifications for pinned repositories ([#82](https://github.com/steipete/RepoBar/pull/82)), both merged.
+- 🧩 **More OpenCLI fixes** — continued upstreaming into [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI): a self-contained `splitDoubanTitle` fix for `page.evaluate` injection ([#1924](https://github.com/jackwener/OpenCLI/pull/1924), merged), with a Xiaohongshu highest-res video download fix ([#1921](https://github.com/jackwener/OpenCLI/pull/1921)) and a post-subcommand `--window` flag fix ([#1926](https://github.com/jackwener/OpenCLI/pull/1926)) in review.
+- 🎙️ **`oral-interview-transcription-skill`** — new public Claude skill for oral-history work: a de-disfluency first pass plus an adversarial faithfulness quality gate, fidelity-first with source data kept local end-to-end.
+- 🌐 **Knowledge-Hub goes public** — the Obsidian CS self-study vault (1300+ lecture notes) is now public and published as a Quartz wiki, guarded by a frontmatter-validation CI check.
 
 **2026-06-10**
 
@@ -62,14 +70,16 @@ I build practical AI tooling around a simple question:
 |---|---|---:|---|
 | Skills ecosystem | [claude-code-skills](https://github.com/LeoLin990405/claude-code-skills) | Active | Canonical public monorepo for installable Codex / Claude Code skills. 60+ skill units organized by category. |
 | Document → skill engine | [grimoire-skill](https://github.com/LeoLin990405/grimoire-skill) | Active | MinerU document-parsing skill (PDF / DOC / PPT / image → Markdown / JSON). A v2 *Skill Forge Engine* refactor is proposed in [PR #16](https://github.com/LeoLin990405/grimoire-skill/pull/16). |
-| R analytics skill | [r-analytics-skill](https://github.com/LeoLin990405/r-analytics-skill) | Active | R analytics pack with package-level data, stats, ML, spatial, NLP, and visualization workflows. |
+| R analytics skill | [r-analytics-skill](https://github.com/LeoLin990405/r-analytics-skill) | Active | R analytics pack — 93 package-level skills across data, stats, ML, spatial, NLP, and visualization workflows. |
 | WeChat archive skill | `wechat-public-account-archive-skill` | Private active | Archives WeChat public-account articles into Knowledge Hub while keeping auth material out of notes. |
 | YouTube clipping skill | `youtube-clipper-skill` | Private active | Codex-ready video clipping workflow: download, semantic chaptering, bilingual subtitles, and summaries. |
 | Knowledge base | [Knowledge-Hub](https://github.com/LeoLin990405/Knowledge-Hub) | Active | Obsidian-based CS self-study vault (1300+ lecture notes) and long-term knowledge system. |
 | Applied ML portfolio | [udacity-masters-ai-projects](https://github.com/LeoLin990405/udacity-masters-ai-projects) | Active index | Portfolio entry point for Udacity AI / ML / data-analysis projects. |
-| Multi-agent research | [civagent](https://github.com/LeoLin990405/civagent) | Active / public | 57 historical governance systems as agent-orchestration patterns (⭐ 37). |
+| Multi-agent research | [civagent](https://github.com/LeoLin990405/civagent) | Active / public | 57 historical governance systems as agent-orchestration patterns (⭐ 38). |
 | macOS usage monitor | [CodexBar](https://github.com/LeoLin990405/CodexBar) | Upstream contributor | Usage stats for Codex and Claude Code; several fixes merged into upstream [steipete/CodexBar](https://github.com/steipete/CodexBar). |
+| Repo-status menu bar | [RepoBar](https://github.com/LeoLin990405/RepoBar) | Upstream contributor | GitHub repo CI / issue / PR / release status in the menu bar; fixes merged into upstream [steipete/RepoBar](https://github.com/steipete/RepoBar). |
 | Browser-as-CLI | [OpenCLI](https://github.com/LeoLin990405/OpenCLI) | Upstream contributor | Drive any logged-in website as a CLI; multiple adapters merged into upstream [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI). |
+| Oral-history skill | [oral-interview-transcription-skill](https://github.com/LeoLin990405/oral-interview-transcription-skill) | Active / public | Transcription → faithful-cleanup toolkit: de-disfluency pass + adversarial fidelity gate, source data kept local. |
 
 ---
 
