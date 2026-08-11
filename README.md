@@ -1,6 +1,6 @@
 <div align="center">
 
-# Leo Lin · 林中岳
+# Leo Lin · 林中玥
 
 [![GitHub](https://img.shields.io/badge/GitHub-LeoLin990405-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeoLin990405)
 [![Blog](https://img.shields.io/badge/Blog-leolin990405.github.io-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://leolin990405.github.io/blog/)
@@ -91,7 +91,7 @@ Applied ML and data work lives in [udacity-masters-ai-projects](https://github.c
 
 <div align="center">
 
-# 林中岳 · Leo Lin
+# 林中玥 · Leo Lin
 
 ### [English](#english) &nbsp;·&nbsp; **中文**
 
