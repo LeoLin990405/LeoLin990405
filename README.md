@@ -46,7 +46,7 @@ This table is the spine. Everything below it is the same idea, expressed in code
 
 ## Built on the idea
 
-**[civagent](https://github.com/LeoLin990405/civagent) · ⭐ 38** — the thesis in its purest form: **57 historical governance systems turned into agent-orchestration patterns.** Pick a civilization, command an AI team that coordinates the way that civilization did.
+**[civagent](https://github.com/LeoLin990405/civagent) · ⭐ 40** — the thesis in its purest form: **57 historical governance systems turned into agent-orchestration patterns.** Pick a civilization, command an AI team that coordinates the way that civilization did.
 
 **A governed skill ecosystem** — [claude-code-skills](https://github.com/LeoLin990405/claude-code-skills) is a 60+ skill monorepo, but the point is how it's *governed*. Two "mother skills" run it like a bureaucracy: `skills-master` (the strategist — classifies, merges, archives, audits) and a Grimoire forge engine that turns a PDF, repo, or vault into a draft skill. One canonical home per workflow, enforced quality gates, an archive you can roll back.
 
@@ -126,7 +126,7 @@ Applied ML and data work lives in [udacity-masters-ai-projects](https://github.c
 
 ## 把想法落成系统
 
-**[civagent](https://github.com/LeoLin990405/civagent) · ⭐ 38** — 主线最纯粹的化身：**把 57 套历史治理制度变成 agent 编排模式**。选一个文明，指挥一支按那个文明方式协作的 AI 团队。
+**[civagent](https://github.com/LeoLin990405/civagent) · ⭐ 40** — 主线最纯粹的化身：**把 57 套历史治理制度变成 agent 编排模式**。选一个文明，指挥一支按那个文明方式协作的 AI 团队。
 
 **一套受治理的技能生态** — [claude-code-skills](https://github.com/LeoLin990405/claude-code-skills) 是 60+ 技能的 monorepo，但重点在于它如何被「治理」。两个 mother skill 像官僚机构一样运转：`skills-master`（战略官——分类、合并、归档、审计）和把 PDF／仓库／知识库炼成草稿技能的 Grimoire 锻造引擎。每条工作流只有一个正本归宿、强制质量门、可回滚的归档。
 
@@ -187,6 +187,14 @@ Applied ML and data work lives in [udacity-masters-ai-projects](https://github.c
 ## Stats | 数据统计
 
 <div align="center">
+
+<a href="https://ghfind.com/u/leolin990405?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/leolin990405?lang=en&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghfind.com/api/card/mini/leolin990405?lang=en&theme=light" />
+    <img width="420" alt="GitHub Roast score card · ghfind" src="https://ghfind.com/api/card/mini/leolin990405?lang=en&theme=dark" />
+  </picture>
+</a>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LeoLin990405&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&ring_color=6C63FF&icon_color=6C63FF" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLin990405&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" />
