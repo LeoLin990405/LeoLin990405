@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="398" viewBox="0 0 720 398" role="img">
+<title>From personal memory down to hardware</title>
+<rect width="720" height="398" fill="#0d1117"/>
+<text x="24" y="28" fill="#e6edf3" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="16" font-weight="600">From personal memory down to hardware</text>
+<rect x="24" y="52" width="672" height="64" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="40" y="72" width="4" height="24" rx="2" fill="#8B85FF"/>
+<text x="56" y="79" fill="#e6edf3" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="16" font-weight="600">Personal memory &amp; data</text>
+<text x="56" y="99" fill="#8b949e" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13">local-first · a person approves the write</text>
+<text x="678" y="90" fill="#8B85FF" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" font-weight="600" text-anchor="end">01</text>
+<polyline points="355.0,124 360.0,130 365.0,124" fill="none" stroke="#8B85FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="24" y="142" width="672" height="64" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="40" y="162" width="4" height="24" rx="2" fill="#8B85FF"/>
+<text x="56" y="169" fill="#e6edf3" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="16" font-weight="600">Perception &amp; judgment</text>
+<text x="56" y="189" fill="#8b949e" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13">the model proposes · a person releases</text>
+<text x="678" y="180" fill="#8B85FF" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" font-weight="600" text-anchor="end">02</text>
+<polyline points="355.0,214 360.0,220 365.0,214" fill="none" stroke="#8B85FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="24" y="232" width="672" height="64" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="40" y="252" width="4" height="24" rx="2" fill="#8B85FF"/>
+<text x="56" y="259" fill="#e6edf3" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="16" font-weight="600">Agent infra</text>
+<text x="56" y="279" fill="#8b949e" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13">console · k3s · model farm</text>
+<text x="678" y="270" fill="#8B85FF" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" font-weight="600" text-anchor="end">03</text>
+<polyline points="355.0,304 360.0,310 365.0,304" fill="none" stroke="#8B85FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="24" y="322" width="672" height="64" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="40" y="342" width="4" height="24" rx="2" fill="#8B85FF"/>
+<text x="56" y="349" fill="#e6edf3" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="16" font-weight="600">Hardware</text>
+<text x="56" y="369" fill="#8b949e" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13">on-device models · lab · boards</text>
+<text x="678" y="360" fill="#8B85FF" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" font-weight="600" text-anchor="end">04</text>
+</svg>
