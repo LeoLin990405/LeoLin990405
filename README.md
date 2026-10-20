@@ -21,12 +21,31 @@
 
 From collection, through structuring and judgment, to the memory layer and the device. Control order is **human > mechanism > model**. A conclusion ships with a rerunnable test, and a negative result stays in the record.
 
+```mermaid
+flowchart LR
+  A["华润万象生活<br/>Collection<br/>2024.01–2025.02"] --> B["小铁<br/>Structure and judgment<br/>2025.03–2026.03"]
+  B --> C["BicaMind<br/>Memory and device<br/>2026.05–"]
+  C --> D["memfw<br/>Forgetting and retention<br/>2026.10–"]
+```
+
 | Stage | Where | What |
 |---|---|---|
 | Collection | 华润万象生活 (Shanghai) | Daily reconciliation and paper receipts enter a pipeline a person can rerun |
 | Structure & judgment | 小铁 | Scattered store data into one schema; the model judges, rules and a person release |
 | Memory & device | BicaMind | Long-term memory for a voice agent, and the hardware it enters through |
 | Forgetting & retention | memfw | Fixed rules forget and anchor; a model may propose, a person applies |
+
+Personal memory and data, then perception and judgment, then agent infra, then hardware.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/thesis-stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/thesis-stack-light.svg" />
+  <img width="720" alt="Stack, top to bottom: 01 Personal memory and data, local-first, a person approves the write. 02 Perception and judgment, the model proposes, a person releases. 03 Agent infra: console, k3s, model farm. 04 Hardware: on-device models, lab, boards." src="./assets/thesis-stack-light.svg" />
+</picture>
+
+</div>
 
 ---
 
@@ -82,6 +101,16 @@ Applied ML coursework: [udacity-masters-ai-projects](https://github.com/LeoLin99
 
 Merged pull requests in other people's repositories, coursework set aside. Counted 2026-10-20: **70 merged** across the 9 repositories below, **8 still open**. Star counts are exact.
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/upstream-prs-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/upstream-prs-light.svg" />
+  <img width="720" alt="Merged pull requests counted 2026-10-20: CodexBar 22, OpenCLI 21, claude_codex_bridge 9, Codewhale 5, oracle 4, wuu 4, CodexPlusPlus 2, RepoBar 2, Claude Agent Monitor 1. Total 70 across 9 repositories." src="./assets/upstream-prs-light.svg" />
+</picture>
+
+</div>
+
 | Repository | ⭐ | Merged | Highlights |
 |---|---|---|---|
 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | 22,677 | 22 | LongCat provider ([#1697](https://github.com/steipete/CodexBar/pull/1697)) · empty Personal usage responses retry and keep the last good card ([#3128](https://github.com/steipete/CodexBar/pull/3128)) · live rollouts no longer starve cost updates ([#3314](https://github.com/steipete/CodexBar/pull/3314)) |
@@ -126,12 +155,31 @@ Merged pull requests in other people's repositories, coursework set aside. Count
 
 从采集，经结构化与判断，到记忆层和设备入口。控制顺序是**人 > 机制 > 模型**。结论尽量配可复现的测试，负结果照实留下。
 
+```mermaid
+flowchart LR
+  A["华润万象生活<br/>采集<br/>2024.01–2025.02"] --> B["小铁<br/>结构化与判断<br/>2025.03–2026.03"]
+  B --> C["BicaMind<br/>记忆与设备<br/>2026.05–"]
+  C --> D["memfw<br/>遗忘与留存<br/>2026.10–"]
+```
+
 | 阶段 | 所在 | 做什么 |
 |---|---|---|
 | 采集 | 华润万象生活（上海） | 每日对账与纸质小票进入可以重跑的流程 |
 | 结构化与判断 | 小铁 | 分散的门店数据收成一套 schema；模型负责判断，规则与人负责放行 |
 | 记忆层与设备入口 | BicaMind | 语音 Agent 的长期记忆，以及它进入的硬件 |
 | 遗忘与留存 | memfw | 固定规则负责遗忘与锚定；模型可以提议，人来批准 |
+
+个人记忆与数据，然后是感知与判断，然后是 Agent 基础设施，然后是硬件。
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/thesis-stack-dark-zh.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/thesis-stack-light-zh.svg" />
+  <img width="720" alt="自上而下四层：01 个人记忆与个人数据，本地优先，人批准后才写入。02 感知与判断，模型提议，规则与人放行。03 Agent 基础设施：控制台、k3s、模型农场。04 硬件：端侧模型、实验室、开发板。" src="./assets/thesis-stack-light-zh.svg" />
+</picture>
+
+</div>
 
 ---
 
@@ -186,6 +234,16 @@ Star 数统计于 2026-10-20。
 ## 上游贡献
 
 合进别人仓库的 pull request，课程作业除外。计数日期 2026-10-20：下表 9 个仓库共 **70 个已合并**，另有 **8 个仍开放**。Star 为精确值。
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/upstream-prs-dark-zh.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/upstream-prs-light-zh.svg" />
+  <img width="720" alt="2026-10-20 统计的已合并 pull request：CodexBar 22，OpenCLI 21，claude_codex_bridge 9，Codewhale 5，oracle 4，wuu 4，CodexPlusPlus 2，RepoBar 2，Claude Agent Monitor 1。9 个仓库合计 70。" src="./assets/upstream-prs-light-zh.svg" />
+</picture>
+
+</div>
 
 | 仓库 | ⭐ | 合并数 | 代表 PR |
 |---|---|---|---|

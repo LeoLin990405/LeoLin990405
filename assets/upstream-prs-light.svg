@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="382" viewBox="0 0 720 382" role="img">
+<title>Merged pull requests. 70 across these 9 repositories · counted 2026-10-20. CodexBar 22, OpenCLI 21, claude_codex_bridge 9, Codewhale 5, oracle 4, wuu 4, CodexPlusPlus 2, RepoBar 2, Claude Agent Monitor 1.</title>
+<rect width="720" height="382" fill="#ffffff"/>
+<text x="20" y="34" fill="#1f2328" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="18" font-weight="600">Merged pull requests</text>
+<text x="20" y="56" fill="#656d76" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13">70 across these 9 repositories · counted 2026-10-20</text>
+<line x1="20" y1="68" x2="700" y2="68" stroke="#e6e8eb" stroke-width="1"/>
+<text x="230" y="94" fill="#1f2328" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" text-anchor="end">CodexBar</text>
+<rect x="242" y="83" width="390" height="14" rx="4" fill="#eef0f4"/>
+<rect x="242" y="83" width="390.0" height="14" rx="4" fill="#6C63FF"/>
+<text x="700" y="94" fill="#3d348b" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" font-weight="600" text-anchor="end">22</text>
+<text x="230" y="126" fill="#1f2328" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" text-anchor="end">OpenCLI</text>
+<rect x="242" y="115" width="390" height="14" rx="4" fill="#eef0f4"/>
+<rect x="242" y="115" width="372.27" height="14" rx="4" fill="#6C63FF"/>
+<text x="700" y="126" fill="#3d348b" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" font-weight="600" text-anchor="end">21</text>
+<text x="230" y="158" fill="#1f2328" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" text-anchor="end">claude_codex_bridge</text>
+<rect x="242" y="147" width="390" height="14" rx="4" fill="#eef0f4"/>
+<rect x="242" y="147" width="159.55" height="14" rx="4" fill="#6C63FF"/>
+<text x="700" y="158" fill="#3d348b" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" font-weight="600" text-anchor="end">9</text>
+<text x="230" y="190" fill="#1f2328" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" text-anchor="end">Codewhale</text>
+<rect x="242" y="179" width="390" height="14" rx="4" fill="#eef0f4"/>
+<rect x="242" y="179" width="88.64" height="14" rx="4" fill="#6C63FF"/>
+<text x="700" y="190" fill="#3d348b" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" font-weight="600" text-anchor="end">5</text>
+<text x="230" y="222" fill="#1f2328" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" text-anchor="end">oracle</text>
+<rect x="242" y="211" width="390" height="14" rx="4" fill="#eef0f4"/>
+<rect x="242" y="211" width="70.91" height="14" rx="4" fill="#6C63FF"/>
+<text x="700" y="222" fill="#3d348b" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" font-weight="600" text-anchor="end">4</text>
+<text x="230" y="254" fill="#1f2328" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" text-anchor="end">wuu</text>
+<rect x="242" y="243" width="390" height="14" rx="4" fill="#eef0f4"/>
+<rect x="242" y="243" width="70.91" height="14" rx="4" fill="#6C63FF"/>
+<text x="700" y="254" fill="#3d348b" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" font-weight="600" text-anchor="end">4</text>
+<text x="230" y="286" fill="#1f2328" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" text-anchor="end">CodexPlusPlus</text>
+<rect x="242" y="275" width="390" height="14" rx="4" fill="#eef0f4"/>
+<rect x="242" y="275" width="35.45" height="14" rx="4" fill="#6C63FF"/>
+<text x="700" y="286" fill="#3d348b" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" font-weight="600" text-anchor="end">2</text>
+<text x="230" y="318" fill="#1f2328" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" text-anchor="end">RepoBar</text>
+<rect x="242" y="307" width="390" height="14" rx="4" fill="#eef0f4"/>
+<rect x="242" y="307" width="35.45" height="14" rx="4" fill="#6C63FF"/>
+<text x="700" y="318" fill="#3d348b" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" font-weight="600" text-anchor="end">2</text>
+<text x="230" y="350" fill="#1f2328" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" text-anchor="end">Claude Agent Monitor</text>
+<rect x="242" y="339" width="390" height="14" rx="4" fill="#eef0f4"/>
+<rect x="242" y="339" width="17.73" height="14" rx="4" fill="#6C63FF"/>
+<text x="700" y="350" fill="#3d348b" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, WenQuanYi Micro Hei, Segoe UI, sans-serif" font-size="13" font-weight="600" text-anchor="end">1</text>
+</svg>
