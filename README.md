@@ -101,6 +101,8 @@ Applied ML coursework: [udacity-masters-ai-projects](https://github.com/LeoLin99
 
 Merged pull requests in other people's repositories, coursework set aside. Counted 2026-10-20: **70 merged** across the 9 repositories below, **8 still open**. Star counts are exact.
 
+In Peter Steinberger's repositories alone: **[30 merged PRs](https://github.com/steipete/CodexBar/pulls?q=is%3Apr+author%3ALeoLin990405+is%3Amerged)** (CodexBar 24, oracle 4, RepoBar 2), counted 2026-10-22.
+
 <div align="center">
 
 <picture>
@@ -234,6 +236,8 @@ Star 数统计于 2026-10-20。
 ## 上游贡献
 
 合进别人仓库的 pull request，课程作业除外。计数日期 2026-10-20：下表 9 个仓库共 **70 个已合并**，另有 **8 个仍开放**。Star 为精确值。
+
+仅 Peter Steinberger 的仓库：**[30 个已合并 PR](https://github.com/steipete/CodexBar/pulls?q=is%3Apr+author%3ALeoLin990405+is%3Amerged)**（CodexBar 24、oracle 4、RepoBar 2），2026-10-22 统计。
 
 <div align="center">
 
