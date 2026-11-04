@@ -1,0 +1,46 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Leo Lin — personal memory and personal data for AI agents">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111A2E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="64" y1="0" x2="520" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 40) rotate(125) scale(260)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 250) rotate(-35) scale(300)">
+      <stop stop-color="#22D3EE" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="280" rx="24" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="279" rx="23.5" stroke="#1E293B"/>
+  <rect width="1200" height="280" rx="24" fill="url(#glow1)"/>
+  <rect width="1200" height="280" rx="24" fill="url(#glow2)"/>
+  <path d="M0 210 C 220 160, 420 250, 640 210 S 1040 150, 1200 195" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <text x="64" y="118" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="72" font-weight="700" fill="#F8FAFC" letter-spacing="-2">Leo Lin</text>
+  <text x="66" y="162" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#CBD5E1">Personal memory and personal data for AI agents</text>
+  <text x="66" y="198" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#94A3B8">local-first memory · human-approved writes · on-device inference · k3s home lab</text>
+  <g font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600">
+    <rect x="66" y="222" width="132" height="28" rx="14" fill="#0F172A" stroke="#334155"/>
+    <text x="82" y="241" fill="#7DD3FC">profile README</text>
+    <rect x="210" y="222" width="160" height="28" rx="14" fill="#0F172A" stroke="#334155"/>
+    <text x="226" y="241" fill="#A5B4FC">local-first memory</text>
+    <rect x="382" y="222" width="126" height="28" rx="14" fill="#0F172A" stroke="#334155"/>
+    <text x="398" y="241" fill="#6EE7B7">on-device MLX</text>
+    <rect x="520" y="222" width="118" height="28" rx="14" fill="#0F172A" stroke="#334155"/>
+    <text x="536" y="241" fill="#F0ABFC">4-layer stack</text>
+  </g>
+  <g transform="translate(940 70)">
+    <rect x="0" y="0" width="196" height="140" rx="16" fill="#0F172A" stroke="#334155" stroke-opacity="0.9"/>
+    <circle cx="22" cy="22" r="4" fill="#F87171"/><circle cx="38" cy="22" r="4" fill="#FBBF24"/><circle cx="54" cy="22" r="4" fill="#34D399"/>
+    <text x="18" y="58" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#64748B">$ stack --top-down</text>
+    <text x="18" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#7DD3FC">01 memory · local-first</text>
+    <text x="18" y="98" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#A78BFA">02 infra · k3s + NAS</text>
+    <text x="18" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#6EE7B7">03 hardware · boards</text>
+  </g>
+</svg>
